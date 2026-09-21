@@ -8,11 +8,10 @@ I’m learning, building, and exploring the world of web development.
 
 
 ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="60"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="60"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" height="55"/>
 </p>
 ## 📚 Currently Learning
 
