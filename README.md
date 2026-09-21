@@ -33,3 +33,9 @@ A browser-based Tic-Tac-Toe game.
 A collection of small projects created while practicing HTML and CSS.
 
 **Tech:** HTML • CSS
+## 👩‍💻 About Me
+
+- 💻 I'm learning Web Development
+- 🌱 Currently exploring Git & GitHub
+- 🚀 I enjoy building small projects and learning by doing
+- 🎯 My goal is to become a skilled developer
