@@ -16,3 +16,19 @@ I’m learning, building, and exploring the world of web development.
 - Git & GitHub
 - JavaScript
 - Web Development
+## 🚀 Projects
+
+### 🛒 Amazon Clone
+A front-end project inspired by Amazon's website.
+
+**Tech:** HTML • CSS
+
+### ❌⭕ Tic-Tac-Toe
+A browser-based Tic-Tac-Toe game.
+
+**Tech:** HTML • CSS • JavaScript
+
+### 🌐 HTML/CSS Daily Projects
+A collection of small projects created while practicing HTML and CSS.
+
+**Tech:** HTML • CSS
