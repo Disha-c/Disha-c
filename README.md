@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm Disha
+
+### 💻 Web Developer
+
+I’m learning, building, and exploring the world of web development.
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
 
 <!--
 **Disha-c/Disha-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
