@@ -4,7 +4,7 @@
 
 I’m learning, building, and exploring the world of web development.
 
-## 🛠️ Skils
+## 🛠️ Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-FF6B35?style=flat-square&logo=html5&logoColor=white" />
